@@ -254,10 +254,7 @@ int main()
 		for(int i = 0; i < 8; i++) if(ans[i] == 7) swi = 1;
 	}
 	
-	cin.get();
-	cin.get();
-	
-	return 0;
+	return t;
 }
 
 
